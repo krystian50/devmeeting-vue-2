@@ -6,8 +6,9 @@
 <script>
 
 export default {
-  // 3 1. Name is not required, but it's usually good to add it
+  // 4 3. Name is not required, but it's usually good to add it
   // it sometimes helps with debuging process
+  // info https://vuejs.org/v2/api/#name
   name: 'home',
 };
 </script>
